@@ -1,6 +1,5 @@
 {
   imports = [
-    ./alpha.nix
     ./bbye.nix
     ./fidget.nix
     ./gitsigns.nix
