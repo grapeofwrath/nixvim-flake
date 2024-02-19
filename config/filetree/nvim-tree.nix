@@ -8,6 +8,8 @@
     renderer.indentWidth = 1;
     diagnostics.enable = true;
     view.float.enable = false;
+    openOnSetup = true;
+    openOnSetupFile = true;
     updateFocusedFile.enable = true;
   };
 
