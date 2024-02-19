@@ -10,6 +10,14 @@
         nushell.enable = true;
         pylsp.enable = true;
         yamlls.enable = true;
+        gopls.enable = true;
+        htmx.enable = true;
+        html.enable = true;
+        nixd.enable = true;
+        cssls.enable = true;
+        ccls.enable = true;
+        bashls.enable = true;
+        astro.enable = true;
       };
     };
     lspkind = {
