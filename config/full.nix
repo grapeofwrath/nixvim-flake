@@ -6,7 +6,6 @@
     ./filetree
     ./lsp
     ./statusline
-    ./tabline
     ./telescope
     ./treesitter
     ./visuals
