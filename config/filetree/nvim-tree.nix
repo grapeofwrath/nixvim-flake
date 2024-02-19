@@ -7,7 +7,7 @@
     };
     renderer.indentWidth = 1;
     diagnostics.enable = true;
-    view.float.enable = true;
+    view.float.enable = false;
     updateFocusedFile.enable = true;
   };
 
