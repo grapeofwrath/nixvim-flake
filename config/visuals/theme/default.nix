@@ -1,6 +1,6 @@
 {
   imports = [
     ./rose-pine.nix
-    ./transparent-background.nix
+    #./transparent-background.nix
   ];
 }
