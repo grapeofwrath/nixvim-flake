@@ -7,6 +7,7 @@
     ./lsp
     ./statusline
     ./telescope
+    ./terminal
     ./treesitter
     ./visuals
   ];
