@@ -59,7 +59,7 @@
       signcolumn = "yes";
       smartcase = true;
       softtabstop = 4;
-      spell = true;
+      spell = false;
       splitbelow = true;
       splitright = true;
       tabstop = 4;
