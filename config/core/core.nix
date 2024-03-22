@@ -54,6 +54,7 @@
       list = true;
       listchars = "tab:>-,trail:●,nbsp:+";
       number = true;
+      relativenumber = true;
       scrolloff = 15;
       shiftwidth = 4;
       signcolumn = "yes";
