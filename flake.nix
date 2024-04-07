@@ -46,10 +46,6 @@
           inherit pkgs;
           module = ./config/full.nix;
         };
-        nvim-lite = nixvim'.makeNixvimWithModule {
-          inherit pkgs;
-          module = ./config/lite.nix;
-        };
       in {
         _module.args.pkgs = import nixpkgs {
           inherit system;
@@ -79,7 +75,6 @@
         packages = rec {
           default = full;
           full = nvim;
-          lite = nvim-lite;
         };
 
         devShells = {

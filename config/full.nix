@@ -1,6 +1,5 @@
 {
   imports = [
-    ./autopairs
     ./comments
     ./core
     ./filetree

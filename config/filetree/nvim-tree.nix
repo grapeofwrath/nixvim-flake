@@ -7,9 +7,9 @@
     };
     renderer.indentWidth = 1;
     diagnostics.enable = true;
-    view.float.enable = false;
-    openOnSetup = true;
-    openOnSetupFile = true;
+    view.float.enable = true;
+    openOnSetup = false;
+    openOnSetupFile = false;
     updateFocusedFile.enable = true;
   };
 
