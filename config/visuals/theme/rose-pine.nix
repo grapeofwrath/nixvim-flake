@@ -1,7 +1,7 @@
 {
   colorschemes.base16 = {
     enable = true;
-    colorscheme = {
+    customColorScheme = {
       base00 = "#1A1F28";
       base01 = "#212733";
       base02 = "#272D38";
