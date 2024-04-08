@@ -55,7 +55,7 @@
       listchars = "tab:>-,trail:●,nbsp:+";
       number = true;
       relativenumber = true;
-      scrolloff = 15;
+      scrolloff = 5;
       shiftwidth = 4;
       signcolumn = "yes";
       smartcase = true;
