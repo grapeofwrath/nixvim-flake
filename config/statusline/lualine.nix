@@ -12,6 +12,6 @@
       ];
     };
 
-    theme = "rose-pine";
+    theme = "auto";
   };
 }
